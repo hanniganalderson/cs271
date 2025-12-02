@@ -1,0 +1,5 @@
+Driver program: main.c
+
+Compile: make
+
+Run: ./assembler <filename.asm>
